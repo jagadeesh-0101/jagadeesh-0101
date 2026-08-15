@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner1.png" width="100%" alt="Jagadeesh Madhineni — Full-Stack Developer | Cybersecurity Analyst"/>
+<img src="assets/banner.svg" width="100%" alt="Jagadeesh Madhineni — Full-Stack Developer | Cybersecurity Analyst"/>
 
 <br/>
 
@@ -29,40 +29,29 @@
 ## 👋 About Me
 
 - 🎓 Pursuing an **M.S. in Computer Science** (4.0 GPA) at Rivier University, NH — graduating May 2026
-- 💼 **Application Developer** at Projxon, building full-stack products with React, TypeScript, Node.js, and PostgreSQL
-- 🛡️ Former **Cybersecurity Analyst** at TPI Composites — SIEM monitoring, vulnerability management, and DLP administration
+- 💼 **Application Developer** experience building full-stack products with React, TypeScript, Node.js, and PostgreSQL
+- 🛡️ **Cybersecurity Analyst** background — SIEM monitoring, vulnerability management, and DLP administration
 - 🔐 I build software the way a security analyst would try to break it: encryption, access control, and reliability engineered in from the first commit
 - 🌱 Currently exploring AI-assisted development workflows and agent-based systems
 - 📫 Actively interviewing for full-time **Software Engineering / Full-Stack Developer** roles in the US
+
+<details>
+<summary><b>🧭 More about how I work</b></summary>
+<br/>
+
+I sit at the intersection of building software and defending it. Most developers ship a login form and move on; I've spent a year watching what happens when access control fails, so I design for that failure mode from the start — encryption at rest, row-level concurrency safety, principle-of-least-privilege access, and audit-friendly systems. I care about code that's still readable and maintainable six months later, not just code that passes today's demo.
+
+</details>
 
 <br/>
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 OrkaVault
-**Zero-knowledge-style secure credential manager**
-
-Architected end-to-end: AES-256-GCM envelope encryption (Google Cloud KMS/Secret Manager), a multi-tiered RBAC system with concurrency-safe PostgreSQL row-level locking, and a cross-platform Electron desktop client with screenshot protection, clipboard denial, and timed credential reveals.
-
-`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Electron` `GCP KMS`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 OrkaEval
-**Full-stack performance evaluation platform**
-
-Built a multi-step candidate/coach evaluation platform with a React + Tailwind CSS frontend and a .NET/C# (Kestrel) REST API, including Google OAuth 2.0 via custom protocol deep linking and a single-dispatch notification system.
-
-`React` `Tailwind CSS` `.NET / C#` `REST API` `OAuth 2.0`
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="assets/card_orkavault.png" width="100%" alt="OrkaVault"/>
+<br/><br/>
+<img src="assets/card_orkaeval.png" width="100%" alt="OrkaEval"/>
+</div>
 
 <br/>
 
@@ -86,6 +75,18 @@ Built a multi-step candidate/coach evaluation platform with a React + Tailwind C
 ### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/jagadeesh-0101/jagadeesh-0101/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 Full Metrics Dashboard
+<sub>Isometric contribution calendar, language breakdown & coding habits — updates daily</sub>
+<br/><br/>
+
+<img src="github-metrics.svg" width="100%" alt="Extended GitHub Metrics"/>
 
 </div>
 
