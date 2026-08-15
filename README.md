@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Jagadeesh Madhineni — Full-Stack Developer | Cybersecurity Analyst"/>
+<img src="assets/banner1.png" width="100%" alt="Jagadeesh Madhineni — Full-Stack Developer | Cybersecurity Analyst"/>
 
 <br/>
 
