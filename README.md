@@ -32,6 +32,7 @@
 - 💼 **Application Developer** experience building full-stack products with React, TypeScript, Node.js, and PostgreSQL
 - 🛡️ **Cybersecurity Analyst** background — SIEM monitoring, vulnerability management, and DLP administration
 - 🔐 I build software the way a security analyst would try to break it: encryption, access control, and reliability engineered in from the first commit
+- 🧰 Creator of **[create-secure-stack](https://github.com/jagadeesh-0101/create-secure-stack)** — an open-source, security-hardened full-stack TypeScript CLI scaffold with auth, RBAC, AES-256-GCM encryption, and audit logging wired in by default
 - 🌱 Currently exploring AI-assisted development workflows and agent-based systems
 - 📫 Actively interviewing for full-time **Software Engineering / Full-Stack Developer** roles in the US
 
@@ -48,9 +49,17 @@ I sit at the intersection of building software and defending it. Most developers
 ## 🚀 Featured Projects
 
 <div align="center">
-<img src="assets/card_orkavault.png" width="100%" alt="OrkaVault"/>
+<a href="https://github.com/jagadeesh-0101/create-secure-stack">
+<img src="assets/card_createsecurestack.png" width="100%" alt="create-secure-stack"/>
+</a>
 <br/><br/>
+<a href="https://github.com/PROJXON/OrkaVault">
+<img src="assets/card_orkavault.png" width="100%" alt="OrkaVault"/>
+</a>
+<br/><br/>
+<a href="https://github.com/PROJXON/OrkaEval">
 <img src="assets/card_orkaeval.png" width="100%" alt="OrkaEval"/>
+</a>
 </div>
 
 <br/>
@@ -75,18 +84,6 @@ I sit at the intersection of building software and defending it. Most developers
 ### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/jagadeesh-0101/jagadeesh-0101/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📈 Full Metrics Dashboard
-<sub>Isometric contribution calendar, language breakdown & coding habits — updates daily</sub>
-<br/><br/>
-
-<img src="github-metrics.svg" width="100%" alt="Extended GitHub Metrics"/>
 
 </div>
 
